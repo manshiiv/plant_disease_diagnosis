@@ -4,15 +4,15 @@ This project uses Deep Learning (CNN with TensorFlow/Keras) and Computer Vision 
 
 📌 Features
 
-Train a CNN model on the PlantVillage dataset
+* Train a CNN model on the PlantVillage dataset
 
-Save and load the trained model (.keras format)
+* Save and load the trained model (.keras format)
 
-Predict diseases from single leaf images
+* Predict diseases from single leaf images
 
-Use OpenCV for preprocessing test images
+* Use OpenCV for preprocessing test images
 
-Extendable for multiple plant types and diseases
+* Extendable for multiple plant types and diseases
 
 
 dataset link:
